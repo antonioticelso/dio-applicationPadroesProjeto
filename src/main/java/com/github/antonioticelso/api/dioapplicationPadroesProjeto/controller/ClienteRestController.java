@@ -3,7 +3,6 @@ package com.github.antonioticelso.api.dioapplicationPadroesProjeto.controller;
 import com.github.antonioticelso.api.dioapplicationPadroesProjeto.model.Cliente;
 import com.github.antonioticelso.api.dioapplicationPadroesProjeto.service.ClienteService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.RequestEntity;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
